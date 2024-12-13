@@ -16,6 +16,9 @@ public class ImportSettings : AssetPostprocessor
         }
         textureImporter.spriteImportMode = SpriteImportMode.Single; //单图
         textureImporter.spritePixelsPerUnit = 100; //每单位像素数
+
+        // gut Text 2
+
         textureImporter.sRGBTexture = true;
     }
 
