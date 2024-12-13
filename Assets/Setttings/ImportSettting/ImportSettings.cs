@@ -18,6 +18,7 @@ public class ImportSettings : AssetPostprocessor
         textureImporter.spritePixelsPerUnit = 100; //每单位像素数
         // git Text 1
 
+        // gut Text 2
 
         textureImporter.sRGBTexture = true;
     }
