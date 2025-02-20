@@ -1,7 +1,4 @@
-﻿Library
-Assets/com.unity.ugui@1.0.0
-Assets/TextMesh Pro
-Assets/XLua
-Logs
-Temp
-Assets/XLua
+﻿*
+!Assets
+!Logs
+!ProjectSettings
